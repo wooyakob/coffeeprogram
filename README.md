@@ -1,0 +1,1 @@
+# simple ruby program to calculator using pour over ratio to calculate grams of water required when grams of coffee is a known variable
